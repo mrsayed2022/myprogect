@@ -1,0 +1,104 @@
+body{
+    background-image: url("../450.Mixed\ Wallpapers.Pack.147.HD.akoam\ \(200\).jpg");
+background-size: cover;
+}
+.header .contaner{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-between;
+}
+.header .contaner h1{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ff7200;
+    position: relative;
+    bottom: 30px;
+}
+.contaner a{
+
+    color: white;
+    text-decoration: none;
+}
+.contaner a:hover{
+    color:#ff7200;
+}
+.contaner .ww{
+    width: 200px;
+    height: 39px;
+    background-color: rgba(250, 235, 215, 0);
+position: relative;
+left: 46px;
+bottom: 12px;
+color: aliceblue;
+}
+
+.contaner .www{
+    width: 80px;
+    height: 40px;
+    position: relative;
+    bottom: 12px;
+    background-color:#ff7200 ;
+border: none;
+}
+.design .contaner{
+    display: flex;
+}
+.contaner .rr{
+    color: white;
+    width: 50%;
+    margin-left: 10px;
+}
+.contaner .rr h1{
+    color: #ff7200
+}
+.contaner .rr p{
+    color:white;
+    line-height: 25px;
+}
+.contaner .rr input{
+    background-color: #ff7200;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 30px;
+}
+.contaner .tt{
+    margin-left: 200px;
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+    width: 205px;
+    
+}
+.contaner .tt h3{
+    color: #ff7200;
+    background-color: white;
+border-radius: 10px;
+padding: 5px;
+margin: 10px;
+
+}
+.contaner .tt input{
+    background: transparent;
+    border: none;
+    color: aliceblue;
+    border-bottom: 1px solid #777;
+    padding: 10px;
+}
+.contaner button{
+    border: none;
+    color: rgb(19, 19, 19);
+    padding: 5px;
+    margin: 10px;
+    width: 170px;
+    background-color: #ff7200;
+    border-radius: 10px;
+}
+.contaner button,input:focus{
+outline: none;
+}
+.contaner .tt p a{
+color: #ff7200;
+
+}
